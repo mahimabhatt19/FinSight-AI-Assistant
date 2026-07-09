@@ -25,7 +25,7 @@ Please check the ppt of the project
 ## How It Works
 
 ### Pipeline Overview
-![Process Overview](process_overview.jpg)
+![Process Overview](process_overview.png)
 
 The system is built across six stages:
 
