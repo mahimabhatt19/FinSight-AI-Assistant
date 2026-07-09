@@ -15,7 +15,7 @@ Work Order and Supplier data was buried in manual SQL queries and static dashboa
 ## System Architecture
 
 ### High-Level Overview
-![System Architecture](assets/architecture_system_overview.jpg)
+![System Architecture](architecture_system_overview.png)
 
 ### End-to-End Data Flow
 ![Data Flow](assets/architecture_data_flow.jpg)
