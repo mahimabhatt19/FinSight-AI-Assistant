@@ -18,14 +18,14 @@ Work Order and Supplier data was buried in manual SQL queries and static dashboa
 ![System Architecture](architecture_system_overview.png)
 
 ### End-to-End Data Flow
-![Data Flow](assets/architecture_data_flow.jpg)
+Please check the ppt of the project
 
 ---
 
 ## How It Works
 
 ### Pipeline Overview
-![Process Overview](assets/process_overview.jpg)
+![Process Overview](process_overview.jpg)
 
 The system is built across six stages:
 
