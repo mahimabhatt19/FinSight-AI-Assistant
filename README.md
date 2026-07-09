@@ -60,8 +60,7 @@ The system is built across six stages:
 
 ## Solution: FinSight AI Assistant
 
-![FinSight Solution Breakdown](assets/finsight_solution_breakdown.jpg)
-![FinSight UI](assets/finsight_ui_demo.jpg)
+Please check demo video of the project
 
 ### Why a Custom Domain-Specific LLM (not a generic API)?
 
@@ -110,7 +109,7 @@ The system is built across six stages:
 
 ## Demo
 
-> 📹 `demo/finsight_demo.mp4` — screen recording of natural language query → retrieval → response flow
+> 📹 Please check demo video of the project — screen recording of natural language query → retrieval → response flow
 
 ---
 
